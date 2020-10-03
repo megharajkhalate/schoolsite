@@ -1,2 +1,2 @@
-Technologies used open source, all references of used code. Flow and key features of the site. 
-    Anyone with incomplete information will not be selected. 
+Technologies used : HTML, CSS, JS 
+Flow and key features : This site is having home page and Contact us page
